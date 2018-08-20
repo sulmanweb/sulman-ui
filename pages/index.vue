@@ -38,7 +38,8 @@
                       class="fas fa-envelope fa-2x"></i></a>
                   </div>
                   <div class="col-2 text-center">
-                    <a href="https://stackoverflow.com/users/4011757/sulman-baig" target="_blank" rel="nofollow"
+                    <a href="https://stackoverflow.com/users/4011757/sulman-baig?tab=profile" target="_blank"
+                       rel="nofollow"
                        title="stack overflow"><i
                       class="fab fa-stack-overflow fa-2x"></i></a>
                   </div>
@@ -56,7 +57,6 @@
         <div class="row">
           <div class="col-md-10 offset-md-1">
             <div class="text">
-              <p>I am a researcher and developer working since 4 years collectively in industry and research labs.</p>
               <p>I have learned many programming languages e.g., C, C++, JAVA, Python, Ruby, JavaScript, and SQL through
                 academic and various famous online courses. Also, I have experience of working with programming
                 techniques such as Agile development, Object Oriented Programming, Test Driven Development and Machine

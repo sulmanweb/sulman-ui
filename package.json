@@ -11,7 +11,7 @@
     "generate": "nuxt generate",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
     "precommit": "npm run lint",
-    "deploy": "node node_modules/s3-deploy/.bin/s3-deploy './dist/**' --cwd './dist/' --region eu-west-1 --bucket www.sulmanbaig.com --profile sulman-ui --distId E139VISQXLAX6E --deleteRemoved",
+    "deploy": "node node_modules/s3-deploy/.bin/s3-deploy './dist/**' --cwd './dist/' --region eu-west-1 --bucket www.sulmanbaig.com --profile sulman-ui --distId E139VISQXLAX6E --invalidate '/' --deleteRemoved",
     "release": "npm run generate && npm run deploy"
   },
   "dependencies": {
