@@ -47,6 +47,16 @@
               </div>
             </div>
           </div>
+          <!--Download CV-->
+          <div class="col-md-6 offset-md-3">
+            <div class="card">
+              <div class="card-body taxt-center">
+                <a href="https://docs-sulman.s3.amazonaws.com/Resume-of-Mirza-Sulman-Baig-Aug-2018.pdf"
+                   download="Resume-of-Sulman-Baig.pdf"
+                   class="btn btn-lg btn-block"><i class="fas fa-download"></i> Download Resume</a>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </section>
