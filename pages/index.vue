@@ -18,8 +18,8 @@
               <div class="card-body">
                 <div class="row">
                   <div class="col-2 text-center">
-                    <a href="https://web.facebook.com/sulmanwebdev" target="_blank" rel="nofollow" title="facebook"><i
-                      class="fab fa-facebook-f fa-2x"></i></a>
+                    <a href="https://medium.com/@sulmanweb" target="_blank" rel="nofollow" title="medium"><i
+                      class="fab fa-medium-m fa-2x"></i></a>
                   </div>
                   <div class="col-2 text-center">
                     <a href="https://www.linkedin.com/in/sulmanbaig/" target="_blank" rel="nofollow" title="linkedin"><i

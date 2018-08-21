@@ -14,7 +14,7 @@
 
         <!-- Right aligned nav items -->
         <b-navbar-nav class="ml-auto">
-          <!--<b-nav-item href="/experiences">Experiences</b-nav-item>-->
+          <b-nav-item href="https://medium.com/@sulmanweb" target="_blank" rel="nofollow">Blog</b-nav-item>
           <b-nav-item-dropdown right>
             <!-- Using button-content slot -->
             <template slot="button-content">

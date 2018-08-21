@@ -6,7 +6,8 @@
         <div class="col-md-8 offset-md-2">
           <ul class="timeline">
             <li>
-              <strong>BSc. Electrical Engineering @ <a target="_blank" href="http://www.uol.edu.pk/">University of
+              <strong>BSc. Electrical Engineering @ <a target="_blank" rel="nofollow" href="http://www.uol.edu.pk/">University
+                of
                 Lahore</a></strong>
               <strong><a href="#" class="float-right date">(Sep, 2007 - Jun, 2013)</a></strong>
               <p>Specialized in communication, electronics, control systems and embedded systems. Expertise are in

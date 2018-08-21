@@ -6,19 +6,20 @@
         <div class="col-md-8 offset-md-2">
           <ul class="timeline">
             <li class="active-before">
-              <strong>Chief Technical Officer (CTO) @ <a target="_blank" href="http://goghoom.com/">GoGhoom</a>
+              <strong>Chief Technical Officer (CTO) @ <a target="_blank" rel="nofollow" href="http://goghoom.com/">GoGhoom</a>
                 <a href="#" class="float-right date">(Jun, 2018 - Continued)</a></strong>
               <p>Designing of Backend Architecture from Database design to API designs, Working in Ruby on Rails Backend
                 APIs. Handling team for front end side in VueJS with testing..</p>
             </li>
             <li class="active-before">
-              <strong>Web Team Lead @ <a target="_blank" href="https://www.linkedin.com/company/zindagi-health/">myZindagi</a>
+              <strong>Web Team Lead @ <a target="_blank" rel="nofollow"
+                                         href="https://www.linkedin.com/company/zindagi-health/">myZindagi</a>
                 <a href="#" class="float-right date">(Dec, 2017 - Continued)</a></strong>
               <p>Designing and managing back-end Ruby on Rails based Grape APIs of myZindagi with the features including
                 fat model thin controllers, JSON responses and SMS prescription and image prescription.</p>
             </li>
             <li>
-              <strong>Manager (Web Applications) @ <a target="_blank"
+              <strong>Manager (Web Applications) @ <a target="_blank" rel="nofollow"
                                                       href="https://www.linkedin.com/company/pantera-pvt-limited/">Pantera
                 Pvt.
                 Ltd.</a>
@@ -28,7 +29,8 @@
                 being developed in AngularJS.</p>
             </li>
             <li>
-              <strong>Software Engineer ROR @ <a target="_blank" href="https://www.linkedin.com/company/alchemative/">Alchemative</a>
+              <strong>Software Engineer ROR @ <a target="_blank" rel="nofollow"
+                                                 href="https://www.linkedin.com/company/alchemative/">Alchemative</a>
                 <a href="#" class="float-right date">(Feb, 2016 - Aug, 2016)</a></strong>
               <p>Designing of back-end Ruby on Rails based REST APIs with the features including token based
                 authentications, multi-tenancy, multiple email account and creating full separate front end AngularJS
@@ -36,7 +38,7 @@
                 Resources Management System that has helped me to learn a lot in web development field. </p>
             </li>
             <li>
-              <strong>Researcher @ <a target="_blank"
+              <strong>Researcher @ <a target="_blank" rel="nofollow"
                                       href="https://www.linkedin.com/school/universit-degli-studi-di-genova/">Universita
                 degli studi di Genova</a>
                 <a href="#" class="float-right date">(May, 2014 - Jan, 2016)</a></strong>
@@ -50,7 +52,7 @@
                 how crowd behaves in panic</p>
             </li>
             <li>
-              <strong>Embedded System Developer @ <a target="_blank"
+              <strong>Embedded System Developer @ <a target="_blank" rel="nofollow"
                                                      href="https://www.linkedin.com/company/powersoft19/">Powersoft19</a>
                 <a href="#" class="float-right date">(Sep, 2013 - Apr, 2014)</a></strong>
               <p>Testing of Embedded firmware and embedded system designing. Designing embedded data acquisition bench
@@ -58,7 +60,7 @@
                 WIFI, USART and I2C using MPLAB.</p>
             </li>
             <li>
-              <strong>Design &amp; Development Engineer @ <a target="_blank"
+              <strong>Design &amp; Development Engineer @ <a target="_blank" rel="nofollow"
                                                              href="https://www.linkedin.com/company/engineering-connections/">Engineering
                 Connection</a></strong>
               <strong><a href="#" class="float-right date">(Jun, 2013 - Nov, 2013)</a></strong>
@@ -66,7 +68,8 @@
                 windows 8 and iOS application development.</p>
             </li>
             <li>
-              <strong>Summer Intern @ <a target="_blank" href="http://www.ffc.com.pk/">FFC Ltd.</a></strong>
+              <strong>Summer Intern @ <a target="_blank" rel="nofollow" href="http://www.ffc.com.pk/">FFC
+                Ltd.</a></strong>
               <strong><a href="#" class="float-right date">(Jun, 2011 - Sep, 2011)</a></strong>
               <p>Worked on Power Plant of FFC, Understood the generation, transmission and distribution of
                 electrical energy. Understood the systems of motor control centers, auxiliary control panels and
