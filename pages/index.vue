@@ -67,17 +67,17 @@
         <div class="row">
           <div class="col-md-10 offset-md-1">
             <div class="text">
-              <p>I have learned many programming languages e.g., C, C++, JAVA, Python, Ruby, JavaScript, and SQL through
-                academic and various famous online courses. Also, I have experience of working with programming
-                techniques such as Agile development, Object Oriented Programming, Test Driven Development and Machine
-                Learning.</p>
-              <p>I am very enthusiastic to learn and keep myself updated with the modern world of science by learning
-                from the online learning platforms. I like accepting new challenges, because they test skills and teach
-                us a lot.</p>
-              <p>I worked one year in industry then two year in research lab and now again working in industry for half
-                a year now. Now, after working both in industry and academia research, I am ready to work on challenging
-                projects in companies. I am sure that I can make it up to the expectations of my recruiters and will
-                deliver my best to the jobs assigned.</p>
+              <p>I worked around 5 years in research areas and industry. Been working in web development for 3 years
+                now.</p>
+              <p>I have experience in Ruby on Rails backend API development as well as web development. Also very good
+                in VueJS front end web development.</p>
+              <p>I have worked in agile environments with complex industrial grade applications with technologies like
+                Swagger REST API, MVC architectures and Database architecture designs.</p>
+              <p>I have done 2 years research in machine learning and computer vision with successful 1 conference
+                paper(singapore) and 1 journal paper(usa) published.</p>
+              <p>I have worked in embedded systems, robotics, computer vision, machine learning and web development.
+                This shows I am dynamic in approach to jobs and can work with whatever job assigned to me with positive
+                attitude and team player characteristics.</p>
             </div>
           </div>
         </div>
