@@ -83,6 +83,79 @@
         </div>
       </div>
     </section>
+
+    <br>
+    <section id="skills">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-10 offset-md-1">
+            <h1 class="text-center">Skills</h1>
+            <div class="row">
+              <div class="col-md-6">
+                <h3>Ruby on Rails</h3>
+                <div class="progress">
+                  <div class="progress-bar bg-dark" role="progressbar" style="width: 90%" aria-valuenow="90"
+                       aria-valuemin="0"
+                       aria-valuemax="100">90%
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <h3>VueJS</h3>
+                <div class="progress">
+                  <div class="progress-bar bg-dark" role="progressbar" style="width: 80%" aria-valuenow="80"
+                       aria-valuemin="0"
+                       aria-valuemax="100">80%
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-6">
+                <h3>Machine Learning</h3>
+                <div class="progress">
+                  <div class="progress-bar bg-dark" role="progressbar" style="width: 70%" aria-valuenow="70"
+                       aria-valuemin="0"
+                       aria-valuemax="100">70%
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <h3>Bootstrap Front End</h3>
+                <div class="progress">
+                  <div class="progress-bar bg-dark" role="progressbar" style="width: 70%" aria-valuenow="70"
+                       aria-valuemin="0"
+                       aria-valuemax="100">70%
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-6">
+                <h3>Database Architecture</h3>
+                <div class="progress">
+                  <div class="progress-bar bg-dark" role="progressbar" style="width: 80%" aria-valuenow="80"
+                       aria-valuemin="0"
+                       aria-valuemax="100">80%
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <h3>REST API Design</h3>
+                <div class="progress">
+                  <div class="progress-bar bg-dark" role="progressbar" style="width: 90%" aria-valuenow="90"
+                       aria-valuemin="0"
+                       aria-valuemax="100">90%
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <br>
+    <br>
   </section>
 </template>
 
