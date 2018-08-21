@@ -67,14 +67,15 @@
         <div class="row">
           <div class="col-md-10 offset-md-1">
             <div class="text">
-              <p>I worked around 5 years in research areas and industry. Been working in web development for 3 years
-                now.</p>
+              <p>I worked about 5 years in research areas and industry, have worked in web app development for 3
+                years.</p>
               <p>I have experience in Ruby on Rails backend API development as well as web development. Also very good
                 in VueJS front end web development.</p>
               <p>I have worked in agile environments with complex industrial grade applications with technologies like
                 Swagger REST API, MVC architectures and Database architecture designs.</p>
               <p>I have done 2 years research in machine learning and computer vision with successful 1 conference
                 paper(singapore) and 1 journal paper(usa) published.</p>
+              <p>I also contribute to open-source community, stackoverflow and early startups as well.</p>
               <p>I have worked in embedded systems, robotics, computer vision, machine learning and web development.
                 This shows I am dynamic in approach to jobs and can work with whatever job assigned to me with positive
                 attitude and team player characteristics.</p>

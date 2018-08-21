@@ -14,15 +14,15 @@
 
         <!-- Right aligned nav items -->
         <b-navbar-nav class="ml-auto">
-          <b-nav-item href="/experiences">Experiences</b-nav-item>
-          <!--<b-nav-item-dropdown right>-->
-          <!--&lt;!&ndash; Using button-content slot &ndash;&gt;-->
-          <!--<template slot="button-content">-->
-          <!--User-->
-          <!--</template>-->
-          <!--<b-dropdown-item href="#">Profile</b-dropdown-item>-->
-          <!--<b-dropdown-item href="#">Signout</b-dropdown-item>-->
-          <!--</b-nav-item-dropdown>-->
+          <!--<b-nav-item href="/experiences">Experiences</b-nav-item>-->
+          <b-nav-item-dropdown right>
+            <!-- Using button-content slot -->
+            <template slot="button-content">
+              Profile
+            </template>
+            <b-dropdown-item href="/education">Education</b-dropdown-item>
+            <b-dropdown-item href="/experiences">Experiences</b-dropdown-item>
+          </b-nav-item-dropdown>
         </b-navbar-nav>
 
       </b-collapse>
