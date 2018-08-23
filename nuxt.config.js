@@ -29,7 +29,11 @@ module.exports = {
   },
   modules: [
     'bootstrap-vue/nuxt',
+    '@nuxtjs/google-analytics'
   ],
+  'google-analytics': {
+    id: 'UA-124527415-1'
+  },
   /*
   ** Customize the progress bar color
   */
