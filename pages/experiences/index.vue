@@ -11,10 +11,10 @@
               <p>Designing of Backend Architecture from Database design to API designs, Working in Ruby on Rails Backend
                 APIs. Handling team for front end side in VueJS with testing..</p>
             </li>
-            <li class="active-before">
+            <li>
               <strong>Web Team Lead @ <a target="_blank" rel="nofollow"
                                          href="https://www.linkedin.com/company/zindagi-health/">myZindagi</a>
-                <a href="#" class="float-right date">(Dec, 2017 - Continued)</a></strong>
+                <a href="#" class="float-right date">(Dec, 2017 - Sep, 2018)</a></strong>
               <p>Designing and managing back-end Ruby on Rails based Grape APIs of myZindagi with the features including
                 fat model thin controllers, JSON responses and SMS prescription and image prescription.</p>
             </li>
@@ -84,58 +84,61 @@
 </template>
 
 <script>
-  export default {}
+export default {};
 </script>
 
 <style>
-  .date, .date:hover, .date:visited, .date:active {
-    text-decoration: none;
-    color: #212529;
-  }
+.date,
+.date:hover,
+.date:visited,
+.date:active {
+  text-decoration: none;
+  color: #212529;
+}
 
-  p {
-    text-align: justify;
-  }
+p {
+  text-align: justify;
+}
 
-  ul.timeline {
-    list-style-type: none;
-    position: relative;
-  }
+ul.timeline {
+  list-style-type: none;
+  position: relative;
+}
 
-  ul.timeline:before {
-    content: ' ';
-    background: #d4d9df;
-    display: inline-block;
-    position: absolute;
-    left: 29px;
-    width: 2px;
-    height: 100%;
-    z-index: 400;
-  }
+ul.timeline:before {
+  content: " ";
+  background: #d4d9df;
+  display: inline-block;
+  position: absolute;
+  left: 29px;
+  width: 2px;
+  height: 100%;
+  z-index: 400;
+}
 
-  ul.timeline > li {
-    margin: 20px 0;
-    padding-left: 20px;
-  }
+ul.timeline > li {
+  margin: 20px 0;
+  padding-left: 20px;
+}
 
-  ul.timeline > li:before {
-    content: ' ';
-    background: #343a40;
-    display: inline-block;
-    position: absolute;
-    border-radius: 50%;
-    border: 3px solid #343a40;
-    left: 20px;
-    width: 20px;
-    height: 20px;
-    z-index: 400;
-  }
+ul.timeline > li:before {
+  content: " ";
+  background: #343a40;
+  display: inline-block;
+  position: absolute;
+  border-radius: 50%;
+  border: 3px solid #343a40;
+  left: 20px;
+  width: 20px;
+  height: 20px;
+  z-index: 400;
+}
 
-  li.active-before::before {
-    background: white !important;
-  }
+li.active-before::before {
+  background: white !important;
+}
 
-  li:before {
-    fill: #0c5460 !important;
-  }
+li:before {
+  fill: #0c5460 !important;
+}
 </style>
