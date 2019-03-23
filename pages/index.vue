@@ -18,8 +18,8 @@
               <div class="card-body">
                 <div class="row">
                   <div class="col-2 text-center">
-                    <a href="https://web.facebook.com/sulmanwebdev" target="_blank" rel="nofollow" title="facebook"><i
-                      class="fab fa-facebook-f fa-2x"></i></a>
+                    <a href="https://medium.com/@sulmanweb" target="_blank" rel="nofollow" title="medium"><i
+                      class="fab fa-medium-m fa-2x"></i></a>
                   </div>
                   <div class="col-2 text-center">
                     <a href="https://www.linkedin.com/in/sulmanbaig/" target="_blank" rel="nofollow" title="linkedin"><i
@@ -38,11 +38,22 @@
                       class="fas fa-envelope fa-2x"></i></a>
                   </div>
                   <div class="col-2 text-center">
-                    <a href="https://stackoverflow.com/users/4011757/sulman-baig" target="_blank" rel="nofollow"
+                    <a href="https://stackoverflow.com/users/4011757/sulman-baig?tab=profile" target="_blank"
+                       rel="nofollow"
                        title="stack overflow"><i
                       class="fab fa-stack-overflow fa-2x"></i></a>
                   </div>
                 </div>
+              </div>
+            </div>
+          </div>
+          <!--Download CV-->
+          <div class="col-md-6 offset-md-3">
+            <div class="card">
+              <div class="card-body taxt-center">
+                <a href="https://docs-sulman.s3.amazonaws.com/Resume-of-Mirza-Sulman-Baig-Aug-2018.pdf"
+                   download="Resume-of-Sulman-Baig.pdf"
+                   class="btn btn-lg btn-block"><i class="fas fa-download"></i> Download Resume</a>
               </div>
             </div>
           </div>
@@ -56,23 +67,96 @@
         <div class="row">
           <div class="col-md-10 offset-md-1">
             <div class="text">
-              <p>I am a researcher and developer working since 4 years collectively in industry and research labs.</p>
-              <p>I have learned many programming languages e.g., C, C++, JAVA, Python, Ruby, JavaScript, and SQL through
-                academic and various famous online courses. Also, I have experience of working with programming
-                techniques such as Agile development, Object Oriented Programming, Test Driven Development and Machine
-                Learning.</p>
-              <p>I am very enthusiastic to learn and keep myself updated with the modern world of science by learning
-                from the online learning platforms. I like accepting new challenges, because they test skills and teach
-                us a lot.</p>
-              <p>I worked one year in industry then two year in research lab and now again working in industry for half
-                a year now. Now, after working both in industry and academia research, I am ready to work on challenging
-                projects in companies. I am sure that I can make it up to the expectations of my recruiters and will
-                deliver my best to the jobs assigned.</p>
+              <p>I worked about 5 years in research areas and industry, have worked in web app development for 3
+                years.</p>
+              <p>I have experience in Ruby on Rails backend API development as well as web development. Also very good
+                in VueJS front end web development.</p>
+              <p>I have worked in agile environments with complex industrial grade applications with technologies like
+                Swagger REST API, MVC architectures and Database architecture designs.</p>
+              <p>I have done 2 years research in machine learning and computer vision with successful 1 conference
+                paper(singapore) and 1 journal paper(usa) published.</p>
+              <p>I also contribute to open-source community, stackoverflow and early startups as well.</p>
+              <p>I have worked in embedded systems, robotics, computer vision, machine learning and web development.
+                This shows I am dynamic in approach to jobs and can work with whatever job assigned to me with positive
+                attitude and team player characteristics.</p>
             </div>
           </div>
         </div>
       </div>
     </section>
+
+    <br>
+    <section id="skills">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-10 offset-md-1">
+            <h1 class="text-center">Skills</h1>
+            <div class="row">
+              <div class="col-md-6">
+                <h3>Ruby on Rails</h3>
+                <div class="progress">
+                  <div class="progress-bar bg-dark" role="progressbar" style="width: 90%" aria-valuenow="90"
+                       aria-valuemin="0"
+                       aria-valuemax="100">90%
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <h3>VueJS</h3>
+                <div class="progress">
+                  <div class="progress-bar bg-dark" role="progressbar" style="width: 80%" aria-valuenow="80"
+                       aria-valuemin="0"
+                       aria-valuemax="100">80%
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-6">
+                <h3>Machine Learning</h3>
+                <div class="progress">
+                  <div class="progress-bar bg-dark" role="progressbar" style="width: 70%" aria-valuenow="70"
+                       aria-valuemin="0"
+                       aria-valuemax="100">70%
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <h3>Bootstrap Front End</h3>
+                <div class="progress">
+                  <div class="progress-bar bg-dark" role="progressbar" style="width: 70%" aria-valuenow="70"
+                       aria-valuemin="0"
+                       aria-valuemax="100">70%
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-6">
+                <h3>Database Architecture</h3>
+                <div class="progress">
+                  <div class="progress-bar bg-dark" role="progressbar" style="width: 80%" aria-valuenow="80"
+                       aria-valuemin="0"
+                       aria-valuemax="100">80%
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <h3>REST API Design</h3>
+                <div class="progress">
+                  <div class="progress-bar bg-dark" role="progressbar" style="width: 90%" aria-valuenow="90"
+                       aria-valuemin="0"
+                       aria-valuemax="100">90%
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <br>
+    <br>
   </section>
 </template>
 

@@ -6,8 +6,12 @@ module.exports = {
     title: 'Sulman Baig',
     meta: [
       {charset: 'utf-8'},
-      {name: 'viewport', content: 'width=device-width, initial-scale=1'},
-      {hid: 'description', name: 'description', content: 'Nuxt.js project'}
+      {name: 'viewport', content: 'width=device-width, initial-scale=1, shrink-to-fit=no'},
+      {
+        hid: 'description',
+        name: 'description',
+        content: 'Ruby on Rails with VueJS experienced web app developer in Lahore, Pakistan'
+      }
     ],
     link: [
       {rel: 'icon', type: 'image/x-icon', href: '/favicon.ico'},
@@ -25,7 +29,11 @@ module.exports = {
   },
   modules: [
     'bootstrap-vue/nuxt',
+    '@nuxtjs/google-analytics'
   ],
+  'google-analytics': {
+    id: 'UA-124527415-1'
+  },
   /*
   ** Customize the progress bar color
   */
